@@ -13,7 +13,7 @@ export default function Home() {
                     </p>
                 </div>
             </div>
-            <img className="img-fluid rounded-circle"
+            <img className="img-fluid"
                 src={ratwerkslogo} alt="..." />
         </div>
     </section>

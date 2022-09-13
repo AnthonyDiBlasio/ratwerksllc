@@ -8,13 +8,12 @@ export default function About() {
             <div className="row gx-4 gx-lg-5 justify-content-center">
                 <div className="col-lg-8">
                     <h2 style = {{fontSize: "90px"}}className="text-white mb-4">RatWerks</h2>
-                    <h3 style = {{fontSize: "70px", margin: "20px", padding: "120px"}}className="text-white mb-4">About Us</h3>
                     <p  style = {{fontSize: "50px"}}className="text-white">
                   coming soon
                     </p>
                 </div>
             </div>
-            <img className="img-fluid rounded-circle"
+            <img className="img-fluid"
                 src={ratwerkslogo} alt="..." />
         </div>
     </section>

@@ -29,11 +29,6 @@ export default function Container() {
       <NavTabs currentPage={currentPage} handlePageChange={handlePageChange} />
       {/* renders portfolio page */}
       {renderPage()}
-      <footer id="footer">
-    <section className="special">
-      <p className="copyright">&copy; <a href="https://ratwerks.org">RatWerksLLC</a></p>
-    </section>
-  </footer>
     </div>
     
   );
