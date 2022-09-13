@@ -10,7 +10,7 @@ export default function About() {
                     <h2 style = {{fontSize: "90px"}}className="text-white mb-4">RatWerks</h2>
                     <h3 style = {{fontSize: "70px", margin: "20px", padding: "120px"}}className="text-white mb-4">About Us</h3>
                     <p  style = {{fontSize: "50px"}}className="text-white">
-                  coming soon!
+                  coming soon
                     </p>
                 </div>
             </div>

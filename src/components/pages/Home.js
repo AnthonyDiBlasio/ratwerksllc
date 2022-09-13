@@ -9,7 +9,7 @@ export default function Home() {
                 <div className="col-lg-8">
                     <h2 style = {{fontSize: "90px"}}className="text-white mb-4">RatWerks</h2>
                     <p  style = {{fontSize: "50px"}}className="text-white">
-                  coming soon!
+                  coming soon
                     </p>
                 </div>
             </div>
